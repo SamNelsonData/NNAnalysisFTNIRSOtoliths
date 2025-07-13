@@ -29,3 +29,9 @@ Make sure all three files are in the same directory.
 
 ## Step 4 - Run the Program
 Run the program using the following command
+```bash
+python OtolithAgeing.py
+```
+
+## Step 5 - Follow the program's directions
+The program will prompt you to provide information as needed to run the model.
