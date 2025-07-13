@@ -28,7 +28,11 @@ Download `OtolithAgeing.py`, `model_params.pth`, and `scalar_params.json`. The s
 Make sure all three files are in the same directory.
 
 ## Step 4 - Run the Program
-Run the program using the following command
+Within Command Prompt/Terminal, navigate to the folder containing the `OtolithAgeing.py` file the program using the command 
+```bash
+cd /path/to/file
+```
+Then run the following command.
 ```bash
 python OtolithAgeing.py
 ```
