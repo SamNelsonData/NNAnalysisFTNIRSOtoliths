@@ -4,7 +4,7 @@ This repository contains the script and model parameters for estimating the age 
 # How to Use this Script
 
 ## Step 1 - Install Python
-This code was built on Python 3.13.3 on MacOS; 3.13.3 is the preferred python version but I expect some others will work. If you use Windows you may have to install Python 3.12.x as PyTorch may not support later versions of Python on Windows. The download can be found [here](https://www.python.org/downloads/).  
+This code was built on Python 3.13.3; 3.13.3 is the preferred python version but I expect some others will work. If you use Windows you may have to install Python 3.12.x as PyTorch may not support later versions of Python on Windows. The download can be found [here](https://www.python.org/downloads/).  
 
 ## Step 2 - Installing Packages 
 I recommend using python virtual environments (a tutorial can be found [here](https://python.land/virtual-environments/virtualenv)). If you're not sure what 'python virtual environments' are and don't have the time to learn skip this (it's not that important).  
