@@ -29,8 +29,6 @@ from numpy import sqrt, array, round
 
 import time
 
-import matplotlib.pyplot as plt
-
 # Script Parameters
 MODEL_FEATURES = ['TrayBienID', 'Latitude', 'Longitude', 'Sex', 'Length (cm)', 'Wgt_g']
 MODEL_TARGET = 'age'
